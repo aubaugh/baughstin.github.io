@@ -1,21 +1,24 @@
 
-    h2 {
+    ._css_rs_0 {
+        margin: 0 auto;
+        max-width: 700px;
+        padding: 25px;
+    }
+
+
+    ._css_rs_1 {
         text-align: center;
     }
 
-    div {
-        border-radius: 25px;
+
+    ._css_rs_2 {
+        float: right;
+    }
+
+
+    ._css_rs_3 {
         border: 2px solid #ccc;
         padding: 25px;
         margin: 5px auto;
-        max-width: 75%;
-    }
-
-    a {
-        margin-right: 5px;
-    }
-
-    .right {
-        float: right;
     }
 
