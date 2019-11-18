@@ -1,5 +1,5 @@
 
-    h2, h3 {
+    h2 {
         text-align: center;
     }
 
@@ -9,5 +9,13 @@
         padding: 25px;
         margin: 5px auto;
         max-width: 75%;
+    }
+
+    a {
+        margin-right: 5px;
+    }
+
+    .right {
+        float: right;
     }
 
