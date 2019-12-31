@@ -44,3 +44,7 @@
         text-indent: 2em;
     }
 
+    video {
+        width: 100%;
+    }
+
