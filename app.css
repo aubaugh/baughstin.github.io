@@ -17,17 +17,19 @@
 
 
     ._css_rs_2 {
-        float: right;
-    }
-
-
-    ._css_rs_3 {
         margin: 5px 0;
     }
 
 
+    ._css_rs_3 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+
     ._css_rs_4 {
-        font-size: large;
+        font-size: x-large;
         font-weight: bold;
     }
 
