@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "collaborators": [
+    "Austin Baugh <austinsbaugh@gmail.com>"
+  ],
+  "description": "A portfolio generator",
+  "version": "0.2.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austinsheep/austinsheep.github.io"
+  },
+  "files": [
+    "package_bg.wasm",
+    "package.js",
+    "package.d.ts"
+  ],
+  "module": "package.js",
+  "types": "package.d.ts",
+  "sideEffects": false
+}
